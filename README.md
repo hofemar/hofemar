@@ -1,4 +1,4 @@
-# Hi, I'm Martin
+# Hi, I'm Mario
 
 I build mixed reality applications with a focus on practical, real-world use cases.
 
